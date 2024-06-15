@@ -2,7 +2,7 @@
 
 
 ## Overview
-This project involves predicting the stock prices of a specific company using ARIMA (AutoRegressive Integrated Moving Average) model. The model is trained on historical stock price data and then used to forecast future stock prices. The project also includes evaluation of the model's performance using various metrics.
+This project involves predicting the stock prices of a specific company using Long Short Term Memory (LSTM), ARIMA (AutoRegressive Integrated Moving Average) & Support Vector Machines (SVM) model. The model is trained on historical stock price data and then used to forecast future stock prices. The project also includes evaluation of the model's performance using various metrics.
 
 ## Dataset
 The dataset contains historical stock prices for multiple companies with the following columns:
